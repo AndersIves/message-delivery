@@ -1,0 +1,28 @@
+{
+  "properties": [
+    {
+      "name": "z9n.delivery.enable",
+      "type": "java.lang.Boolean",
+      "description": "是否启用delivery."
+    },
+    {
+      "name": "z9n.delivery.corePoolSize",
+      "type": "java.lang.Integer",
+      "description": "分发核心线程池大小."
+    },
+    {
+      "name": "z9n.delivery.maximumPoolSize",
+      "type": "java.lang.Integer",
+      "description": "分发最大线程池大小."
+    },
+    {
+      "name": "z9n.delivery.keepAliveTime",
+      "type": "java.lang.Long",
+      "description": "keepAlive时间 毫秒."
+    },
+    {
+      "name": "z9n.delivery.cacheQueueSize",
+      "type": "java.lang.Integer",
+      "description": "缓冲队列大小."
+    }
+  ] }
